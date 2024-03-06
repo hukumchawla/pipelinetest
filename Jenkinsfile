@@ -6,7 +6,7 @@ pipeline{
  stage('build'){
  
  steps{
- echo 'building the app new'
+ echo 'building the app new test on 6th March'
  }
  
  }
